@@ -19,12 +19,15 @@ description: Data Science and Machine Learning Engineering
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
+navbar-links:
 #   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
-#   David's GitHub: "http://https://github.com/ddodds42"
+  David's GitHub: "http://https://github.com/ddodds42"
+  Blog Posts:
+    Measuring Why Nations Fail: "https://medium.com/@davidadodds/measuring-why-nations-fail-f991fac7e50f"
+    Predicting Nation-State Failures: "https://medium.com/@davidadodds/predicting-nation-state-failure-abf3793c7d6b?sk=bda61c06ac7cca4fac748d3c74c58300"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -66,14 +69,14 @@ footer-link-col: "#404040"
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-# social-network-links:
+social-network-links:
 #   rss: true
-#   email: "dadodds@umich.edu"
+  email: "dadodds@umich.edu"
 #   facebook: deanattali
-#   github: ddodds42
+  github: ddodds42
 #   twitter: daattali
 #  reddit: yourname
-#  linkedin: david-dodds-043014154
+ linkedin: david-dodds-043014154
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
